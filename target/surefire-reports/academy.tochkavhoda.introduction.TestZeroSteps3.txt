@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: academy.tochkavhoda.introduction.TestZeroSteps3
 -------------------------------------------------------------------------------
-Tests run: 23, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.007 s -- in academy.tochkavhoda.introduction.TestZeroSteps3
+Tests run: 23, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.011 s -- in academy.tochkavhoda.introduction.TestZeroSteps3
