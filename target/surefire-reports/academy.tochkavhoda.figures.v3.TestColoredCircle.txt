@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: academy.tochkavhoda.figures.v3.TestColoredCircle
 -------------------------------------------------------------------------------
-Tests run: 25, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.005 s -- in academy.tochkavhoda.figures.v3.TestColoredCircle
+Tests run: 25, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.013 s -- in academy.tochkavhoda.figures.v3.TestColoredCircle

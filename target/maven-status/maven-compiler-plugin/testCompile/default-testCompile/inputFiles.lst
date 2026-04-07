@@ -19,6 +19,7 @@
 /Users/arente/Desktop/study/VasnevNikolay_pib23z2/src/test/java/academy/tochkavhoda/figures/v3/TestColoredRectangle.java
 /Users/arente/Desktop/study/VasnevNikolay_pib23z2/src/test/java/academy/tochkavhoda/figures/v3/TestEllipse.java
 /Users/arente/Desktop/study/VasnevNikolay_pib23z2/src/test/java/academy/tochkavhoda/figures/v3/TestFigure.java
+/Users/arente/Desktop/study/VasnevNikolay_pib23z2/src/test/java/academy/tochkavhoda/figures/v3/TestFigureBag.java
 /Users/arente/Desktop/study/VasnevNikolay_pib23z2/src/test/java/academy/tochkavhoda/figures/v3/TestRectangle.java
 /Users/arente/Desktop/study/VasnevNikolay_pib23z2/src/test/java/academy/tochkavhoda/figures/v3/TestSquare.java
 /Users/arente/Desktop/study/VasnevNikolay_pib23z2/src/test/java/academy/tochkavhoda/figures/v3/TestTypes.java
@@ -26,6 +27,7 @@
 /Users/arente/Desktop/study/VasnevNikolay_pib23z2/src/test/java/academy/tochkavhoda/introduction/TestZeroSteps2.java
 /Users/arente/Desktop/study/VasnevNikolay_pib23z2/src/test/java/academy/tochkavhoda/introduction/TestZeroSteps3.java
 /Users/arente/Desktop/study/VasnevNikolay_pib23z2/src/test/java/academy/tochkavhoda/introduction/TestZeroSteps4.java
+/Users/arente/Desktop/study/VasnevNikolay_pib23z2/src/test/java/academy/tochkavhoda/matrix/TestMatrixNonSimilarRows.java
 /Users/arente/Desktop/study/VasnevNikolay_pib23z2/src/test/java/academy/tochkavhoda/misc/v2/TestColoredValue.java
 /Users/arente/Desktop/study/VasnevNikolay_pib23z2/src/test/java/academy/tochkavhoda/misc/v2/TestMovablePoint2D.java
 /Users/arente/Desktop/study/VasnevNikolay_pib23z2/src/test/java/academy/tochkavhoda/misc/v2/TestResizableCircle.java
@@ -34,3 +36,9 @@
 /Users/arente/Desktop/study/VasnevNikolay_pib23z2/src/test/java/academy/tochkavhoda/misc/v3/TestMovablePoint2D.java
 /Users/arente/Desktop/study/VasnevNikolay_pib23z2/src/test/java/academy/tochkavhoda/misc/v3/TestResizableCircle.java
 /Users/arente/Desktop/study/VasnevNikolay_pib23z2/src/test/java/academy/tochkavhoda/misc/v3/TestStretchableBox.java
+/Users/arente/Desktop/study/VasnevNikolay_pib23z2/src/test/java/academy/tochkavhoda/school/TestGroup.java
+/Users/arente/Desktop/study/VasnevNikolay_pib23z2/src/test/java/academy/tochkavhoda/school/TestSchool.java
+/Users/arente/Desktop/study/VasnevNikolay_pib23z2/src/test/java/academy/tochkavhoda/school/TestTraineeBidiMap.java
+/Users/arente/Desktop/study/VasnevNikolay_pib23z2/src/test/java/academy/tochkavhoda/school/TestTraineeMap.java
+/Users/arente/Desktop/study/VasnevNikolay_pib23z2/src/test/java/academy/tochkavhoda/school/TestTraineeMultiValuedMap.java
+/Users/arente/Desktop/study/VasnevNikolay_pib23z2/src/test/java/academy/tochkavhoda/school/TestTraineeQueue.java
